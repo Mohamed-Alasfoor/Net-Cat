@@ -1,6 +1,8 @@
 ## Net-Cat
 This project consists on recreating the NetCat in a Server-Client Architecture that can run in a server mode on a specified port listening for incoming connections, and it can be used in client mode, trying to connect to a specified port and transmitting information to the server.
 
+Technology used: Golang
+
 ## To run the server
 - Clone or download this repository
 - Open the terminal 
@@ -20,5 +22,5 @@ nc <SERVER_IP> <PORT>
 ![Screenshot 2024-08-04 012800](https://github.com/user-attachments/assets/9c8140a4-b06b-4852-aecc-a9c4a41f21d7)
 
 ## Authors
-[Mohamed Alasfoor](https://github.com/Mohamed-Alasfoor)
-[Zainab Nasser](https://github.com/zainab49)
+- [Mohamed Alasfoor](https://github.com/Mohamed-Alasfoor)
+- [Zainab Nasser](https://github.com/zainab49)
